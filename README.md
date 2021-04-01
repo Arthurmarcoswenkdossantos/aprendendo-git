@@ -8,3 +8,4 @@ echo # aprendendo-git volume 2
 
 git é legal
 
+aprendendo comandos super avançados uhuuu
